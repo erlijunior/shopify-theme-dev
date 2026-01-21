@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Veja nossos novos produtos</p>",
+            "text": "<p>Veja nossos novos produtos incríveis</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
